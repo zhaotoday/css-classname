@@ -1,5 +1,5 @@
 ## 1. 页面结构  
-容器: container  
+容器：container  
 页头：header  
 内容：content  
 页面主体：main  
@@ -20,8 +20,8 @@
 右导航：right-sidebar  
 菜单：menu  
 子菜单：sub-menu  
-标题: title  
-摘要: summary  
+标题：title  
+摘要：summary  
   
 ## 3. 功能  
 标志：logo  
@@ -39,9 +39,9 @@
 标签页：tab  
 文章列表：list  
 提示信息：msg  
-当前的: current  
+当前的：current  
 小技巧：tips  
-图标: icon  
+图标：icon  
 注释：note  
 指南：guide  
 服务：service  
